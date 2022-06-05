@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'open sans';
+    font-size: 16px;
+    background-image: url(img1.jpeg);
+    background-attachment: fixed;
+    background-image: center;
+    background-size: cover;
+}
+
+header {
+    width: 100%;
+    height: 650px;
+    background-image: url(img1.jpeg);
+    background-attachment: fixed;
+    background-image: center;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    color: white;
+    text-align: center;
+}
+
+header .texts {
+    margin-top: 150px;
+}
+
+header .tittle {
+    font-size: 85px;
+}
+
+header .img2 img{
+    margin-top: 20px;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 100%;
+}
+
+.tittle2 {
+    background-color: rgba(54, 60, 72, 0.5);
+    width: auto;
+    height: 50px;
+    margin-top: 3px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    border-radius: 10px;
+}
+
+.contenedor {
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 52px 0;
+    background-color: #b5bac9;
+}
+
+.aboutme {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.subtitle {
+    text-align: center;
+}
+
+.parrafo {
+    margin-bottom: 13px;
+    margin-left: 20px;
+    font-weight: 300;
+    text-align: left;
+    line-height: 24px;
+    color: white;
+    width: 50%;
+}
+
+.contend {
+    width: auto;
+    font-size: 20px;
+    margin-top: 3px;
+    text-align: left;
+    background-color: rgba(119, 125, 137, 0.5);
+    height: auto;
+    color: white;
+    border-radius: 10px;
+}
+
+article .h4title {
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.datosp {
+    width: auto;
+    position: relative;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.motaalv {
+    background-color: rgba(56, 62, 74, 0.7);
+    width: auto;
+    height: 70px;
+    margin-top: 3px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    border-radius: 10px;
+}
+
+.list {
+    margin-bottom: 13px;
+    margin-left: 40px;
+    font-weight: 300;
+    text-align: left;
+    line-height: 24px;
+    color: white;
+}
+
+.contendlist {
+    width: auto;
+    font-size: 20px;
+    margin-top: 3px;
+    text-align: left;
+    background-color: rgba(119, 125, 137, 0.5);
+    height: 50px;
+    color: white;
+    border-radius: 10px;
+}

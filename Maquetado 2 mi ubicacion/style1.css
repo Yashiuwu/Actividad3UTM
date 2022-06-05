@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'open sans';
+}
+
+body {
+    font-family: 'open sans';
+    font-size: 16px;
+    background-image: url(img1.jpg);
+    background-attachment: fixed;
+    background-image: center;
+    background-size: cover;
+}
+
+.texts {
+    background-color: rgba(15, 28, 11, 0.7);
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+}
+
+.tittle {
+    color: white;
+    margin-top: 100px;
+    text-align: center;
+    font-size: 70px;
+
+}
+
+.subtittle {
+    color: white;
+    margin-top: 3px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.info {
+    width: 50%;
+    margin-left: 50px;
+    margin-top: 3px;
+    display: inline-block; 
+}
+
+.horariotit {
+    background-color: rgba(12, 10, 4, 0.7);
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    width: auto;
+    border-radius: 10px;
+}
+
+.horarios {
+    background-color: rgba(57, 70, 53, 0.7);
+    width: auto;
+    margin-top: 3px;
+    border-radius: 10px;
+    height: 50px;
+}
+
+.horario {
+    color: white;
+    text-align: left;
+    margin-left: 25px;
+    font-size: 20px;
+}
+
+.subtittle1 {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    width: auto;
+    border-radius: 10px;
+    background-color: rgba(12, 10, 4, 0.7);
+}
+
+.direccion {
+    width: 50%;
+    margin-top: 3px;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.casa {
+    background-color: rgba(57, 70, 53, 0.7);
+    height: 50px;
+    margin-top: 3px;
+    border-radius: 10px;
+}
+
+.parrafo {
+    color: white;
+    margin-left: 25px;
+    font-size: 20px;
+}
+
+.mapa {
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+.registro {
+    width: 45%;
+    display: inline-block;
+}
+
+.tittleregistro {
+    width: auto;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    background-color: rgba(12, 10, 4, 0.7);
+}
+
+.formulario {
+    background-color: rgba(57, 70, 53, 0.7);
+    height: 50px;
+    margin-top: 3px;
+    border-radius: 10px;
+}
+
+.input1 {
+    margin-top: 5px;
+    background-color: rgba(57, 70, 53, 0.7);
+    border-radius: 10px;
+    color: white;
+}
+
+.label1 {
+    color: white;
+    margin-top: 5px;
+    margin-left: 20px;
+}
